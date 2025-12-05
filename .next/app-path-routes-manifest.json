@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/blog/page": "/blog",
+  "/case-studies/[id]/page": "/case-studies/[id]",
+  "/case-studies/page": "/case-studies",
+  "/case-studies/tech-solve-ai/page": "/case-studies/tech-solve-ai",
+  "/contact/page": "/contact",
+  "/experience/page": "/experience",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/projects/page": "/projects",
+  "/services/page": "/services",
+  "/terms/page": "/terms"
+}

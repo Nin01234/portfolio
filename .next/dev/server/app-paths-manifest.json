@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/send/route": "app/api/send/route.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/case-studies/[id]/page": "app/case-studies/[id]/page.js",
+  "/case-studies/alliswell/page": "app/case-studies/alliswell/page.js",
+  "/case-studies/fitlife/page": "app/case-studies/fitlife/page.js",
+  "/case-studies/godfred-ai/page": "app/case-studies/godfred-ai/page.js",
+  "/case-studies/page": "app/case-studies/page.js",
+  "/case-studies/reney/page": "app/case-studies/reney/page.js",
+  "/case-studies/tech-solve-ai/page": "app/case-studies/tech-solve-ai/page.js",
+  "/case-studies/zidalco/page": "app/case-studies/zidalco/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/experience/page": "app/experience/page.js",
+  "/page": "app/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/services/page": "app/services/page.js",
+  "/terms/page": "app/terms/page.js"
+}
